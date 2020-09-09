@@ -1,5 +1,5 @@
 <div align="center">
-<img src="Programmer.gif" width=80% alt="Programmer_GIF">
+<img src="Programmer.gif" alt="Programmer_GIF">
 <h2>Hello<img src="Hi.gif" width=30px alt="Hi_GIF">, I'm <a href="https://github.com/vstark21"><small>V I S H W A S</small></a></h2>
 </div>
 
