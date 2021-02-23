@@ -5,6 +5,7 @@
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=vstark21&show_icons=true&border=true&icon_color=79ff97&text_color=efefef&bg_color=24292e&title_color=fff" alt="Github stats">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vstark21&theme=tokyonight" alt="Streak">
+    <br>
 </div>
 
 <!-- <div>
@@ -15,6 +16,7 @@
 		<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/>
     	<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
 </div> -->
+
 <div align="center" style="padding-top:10px;">
 <a href="https://www.instagram.com/v_i_s_h_w_a21/">
 <img src="https://github.com/vstark21/vstark21/blob/master/instagram.png" width=30px style="padding-right:10px;">
