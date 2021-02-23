@@ -3,8 +3,10 @@
 <h2>Hello<img src="https://github.com/vstark21/vstark21/blob/master/Hi.gif" width=30px alt="Hi_GIF">, I'm <a href="https://github.com/vstark21"><small>V I S H W A S</small></a></h2>
 </div>
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vstark21&layout=compact&hide=Digital Command Language">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vstark21&show_icons=true&border=true&icon_color=79ff97&text_color=efefef&bg_color=24292e&title_color=fff" alt="Github stats">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vstark21&theme=tokyonight" alt="Streak">
 </div>
+
 <!-- <div>
     	<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
         <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
