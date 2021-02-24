@@ -3,8 +3,8 @@
 <h2>Hello<img src="https://github.com/vstark21/vstark21/blob/master/Hi.gif" width=30px alt="Hi_GIF">, I'm <a href="https://github.com/vstark21"><small>V I S H W A S</small></a></h2>
 </div>
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vstark21&show_icons=true&border=true&icon_color=79ff97&text_color=efefef&bg_color=24292e&title_color=fff" alt="Github stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vstark21&theme=tokyonight" alt="Streak">
+    <img src="https://github-readme-stats.vercel.app/api?username=vstark21&show_icons=true&border=true&icon_color=79ff97&text_color=efefef&bg_color=24292e&title_color=fff" alt="Github stats" width=40%>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vstark21&theme=tokyonight" alt="Streak" width=40%>
     <br>
 </div>
 
