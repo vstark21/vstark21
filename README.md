@@ -3,8 +3,8 @@
 <h2>Hello<img src="https://github.com/vstark21/vstark21/blob/master/Hi.gif" width=30px alt="Hi_GIF">, I'm <a href="https://github.com/vstark21"><small>V I S H W A S</small></a></h2>
 </div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vstark21&show_icons=true&border=true&icon_color=79ff97&text_color=efefef&bg_color=24292e&title_color=fff" alt="Github stats" width=40%>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vstark21&theme=tokyonight" alt="Streak" width=40%>
+    <img src="https://github-readme-stats.vercel.app/api?username=vstark21&show_icons=true&border=true&icon_color=79ff97&text_color=efefef&bg_color=24292e&title_color=fff" alt="Github stats" width=45%>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vstark21&theme=tokyonight" alt="Streak" width=45%>
     <br>
 </div>
 
@@ -24,12 +24,13 @@
 <a href="https://twitter.com/VishwasChepuri">
 <img src="https://github.com/vstark21/vstark21/blob/master/twitter.png" width=30px style="padding-right:10px;">
 </a>
-<a href="https://github.com/vstark21">
-<img src="https://github.com/vstark21/vstark21/blob/master/github.png" width=30px style="padding-right:10px;">
+<a href="https://www.linkedin.com/in/vishwas-chepuri">
+<img src="https://github.com/vstark21/vstark21/blob/master/linkedin.png" width=30px style="padding-right:10px;">
 </a>
 <a href="https://vstark21.github.io">
 <img src="https://github.com/vstark21/vstark21/blob/master/website.png" width=30px>
 </a>
 </div>
+
 
 
