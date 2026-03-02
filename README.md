@@ -5,11 +5,19 @@
   </h2>
 
   <p>
-    I build software.
+    Data Scientist • ML/AI Engineer • System Builder
   </p>
 
   <p>
-    <b>Exploring:</b> AI/ML, applied automation, and product-minded engineering.
+    I design and build intelligent systems — from ML models and LLM-powered apps to automation-first developer tooling.
+  </p>
+
+  <p>
+    <b>Focused on:</b> Generative AI, LLMs, inference optimization, RAG systems, and applied automation.
+  </p>
+
+  <p>
+    <b>Currently:</b> Building orchestration agents, exploring model internals, and sharpening systems-level thinking.
   </p>
 </div>
 
@@ -20,6 +28,6 @@
 
   <br/><br/>
   <sub>
-    Always open to collaborating on interesting problems.
+    Open to collaborating on ambitious AI and systems projects.
   </sub>
 </div>
