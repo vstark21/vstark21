@@ -1,7 +1,7 @@
 <div align="center">
   <h2>
     Hello <img src="https://raw.githubusercontent.com/vstark21/vstark21/master/Hi.gif" width="28" alt="Hi" />
-    I'm <a href="https://vstark21.github.io">V I S H W A S</a>
+    I'm Vishwas.
   </h2>
 
   <p>
@@ -9,7 +9,7 @@
   </p>
 
   <p>
-    I design and build intelligent systems — from ML models and LLM-powered apps to automation-first developer tooling.
+    I design and build intelligent systems: from ML models and LLM-powered apps to automation-first developer tooling.
   </p>
 
   <p>
